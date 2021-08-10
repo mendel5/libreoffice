@@ -15,3 +15,7 @@ Source:
 - https://help.libreoffice.org/3.3/Common/Selecting_the_Document_Language
 - https://tipps.computerbild.de/software/officeprogramme/libreoffice-sprache-aendern-diese-moeglichkeiten-gibt-es-608435.html
 
+## Page Margins
+Seitenränder
+
+- https://www.libreofficehelp.com/change-add-margin-writer-libreoffice/
