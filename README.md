@@ -22,7 +22,7 @@ Source:
 - Open the CSV file in LibreOffice Calc
 - Delete the first row
 - Select the complete table
-- Click on `Daten` → `Pivot-Tabelle` → `Einfügen oder bearbeiten` → `Aktuelle Auswahl`
+- Click on `Daten` → `Pivot-Tabelle` → `Einfügen oder bearbeiten` → `Aktuelle Auswahl` → `Ok`
 - Select the following entries for the Pivot table:
   - Filter: empty
   - Spaltenfelder: `Daten`
