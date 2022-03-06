@@ -31,5 +31,5 @@ Source:
 - Click on the Dropdown arrow of the column `Name` and only select `(empty)`
 - Highlight the newly created Pivot table
 - Click on Sort (AZ/ZA or Arrow down/Arrow up)
-- Sort by `Sum - Rufnummer` and `Descending`
+- Sort by `Count - Rufnummer` and `Descending`
 - Done
