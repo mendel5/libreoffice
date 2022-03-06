@@ -25,11 +25,11 @@ Source:
 - Click on `Data` → `Pivot Table` → `Insert or Edit` → `Current selection` → `Ok`
 - Select the following entries for the Pivot table:
   - Filter: empty
-  - Spaltenfelder: `Daten`
-  - Zeilenfelder: `Name`, `Rufnummer`
-  - Datenfelder: `Anzahl - Rufnummer`
-- Click on the Dropdown arrow of the column `Name` and only select `Empty`
+  - Column Fields: `Data`
+  - Row Fields: `Name`, `Rufnummer`
+  - Data Fields: `Sum - Rufnummer`
+- Click on the Dropdown arrow of the column `Name` and only select `(empty)`
 - Highlight the newly created Pivot table
-- Click on Sort (AZ/ZA)
-- Sort by `Anzahl - Rufnummer` and `Absteigend`
+- Click on Sort (AZ/ZA or Arrow down/Arrow up)
+- Sort by `Sum - Rufnummer` and `Descending`
 - Done
