@@ -22,13 +22,13 @@ Source:
 - Open the CSV file in LibreOffice Calc
 - Delete the first row
 - Highlight the complete table
-- Click on `Daten` → `Pivot-Tabelle` → `Einfügen oder bearbeiten` → `Aktuelle Auswahl` → `Ok`
+- Click on `Data` → `Pivot Table` → `Insert or Edit` → `Current selection` → `Ok`
 - Select the following entries for the Pivot table:
   - Filter: empty
   - Spaltenfelder: `Daten`
   - Zeilenfelder: `Name`, `Rufnummer`
   - Datenfelder: `Anzahl - Rufnummer`
-- Click on the Dropdown arrow of the column `Name` and only select `Leer`
+- Click on the Dropdown arrow of the column `Name` and only select `Empty`
 - Highlight the newly created Pivot table
 - Click on Sort (AZ/ZA)
 - Sort by `Anzahl - Rufnummer` and `Absteigend`
