@@ -28,6 +28,7 @@ Source:
   - Column Fields: `Data`
   - Row Fields: `Name`, `Rufnummer`
   - Data Fields: `Count - Rufnummer` (Make sure to change the default value of `Sum - Rufnummer` to `Count - Rufnummer`)
+  - `Ok`
 - Click on the Dropdown arrow of the column `Name` and only select `(empty)`
 - Highlight the newly created Pivot table
 - Click on Sort (AZ/ZA or Arrow down/Arrow up)
