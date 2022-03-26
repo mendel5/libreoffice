@@ -24,7 +24,7 @@ Source:
 - Highlight the complete table
 - Click on `Data` → `Pivot Table` → `Insert or Edit` → `Current selection` → `Ok`
 - Select the following entries for the Pivot table:
-  - Filter: empty
+  - Filters: empty
   - Column Fields: `Data`
   - Row Fields: `Name`, `Rufnummer`
   - Data Fields: `Count - Rufnummer` (Make sure to change the default value of `Sum - Rufnummer` to `Count - Rufnummer`)
