@@ -16,6 +16,9 @@ Source:
 ## Writer: Page Margins / Seitenränder
 - https://www.libreofficehelp.com/change-add-margin-writer-libreoffice/
 
+## Writer: Page Numbers / Seitenzahl
+- https://help.libreoffice.org/latest/en-US/text/swriter/guide/footer_pagenumber.html
+
 ## Calc: Pivottabelle for Fritzbox Calls
 - Go to `fritz.box` → `Telefonie` → `Anrufe` → `Anrufliste` → `Alle Anrufe` → Bottom of the webpage → `Sichern`
 - Download the CSV file
