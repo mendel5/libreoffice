@@ -24,7 +24,7 @@ Source:
 - Download the CSV file
 - Open the CSV file in LibreOffice Calc
 - Delete the first row
-- Highlight the complete table
+- Highlight the full table
 - Click on `Data` → `Pivot Table` → `Insert or Edit` → `Current selection` → `Ok`
 - Select the following entries for the Pivot table:
   - Filters: empty
